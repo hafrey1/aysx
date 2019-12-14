@@ -1,22 +1,11 @@
-# 相逢应不识
 https://gitee.com/ift123/iFreeTimeBookConfigs
-# wxdjs
 https://github.com/wxdjs/iFreeTimebookConfigs
-# q7478729
 #https://gitee.com/q7478729/books
-# superman
-https://gitee.com/superman1024/iFreeTimeBooks
-#赵凯
+#https://gitee.com/superman1024/iFreeTimeBooks
 #https://gitee.com/qzlivn/BookConfig
-#abc君
 #https://gitee.com/weiniff/ibooks
-#gangxiaoji
-https://github.com/gangxiaoji/bookConfigs
-#王颖博
-https://github.com/wangyingbo/iFreeTimeBookConfigs
-#乌冬肥大鸡 
+#https://github.com/gangxiaoji/bookConfigs
+#https://github.com/wangyingbo/iFreeTimeBookConfigs
 #https://gitee.com/heiji666/aiyue
-#y154541000
 #https://github.com/y154541000/BookConfig
-#踏雪流云 
 #https://gitee.com/q7478729/books
