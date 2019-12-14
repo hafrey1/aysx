@@ -1,10 +1,10 @@
-#相逢应不识
+# 相逢应不识
 https://gitee.com/ift123/iFreeTimeBookConfigs
-#wxdjs
+# wxdjs
 https://github.com/wxdjs/iFreeTimebookConfigs
-#q7478729
+# q7478729
 #https://gitee.com/q7478729/books
-#superman
+# superman
 https://gitee.com/superman1024/iFreeTimeBooks
 #赵凯
 #https://gitee.com/qzlivn/BookConfig
