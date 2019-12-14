@@ -1,4 +1,4 @@
-https://gitee.com/ift123/iFreeTimeBookConfigs
+#https://gitee.com/ift123/iFreeTimeBookConfigs
 https://github.com/wxdjs/iFreeTimebookConfigs
 #https://gitee.com/q7478729/books
 #https://gitee.com/superman1024/iFreeTimeBooks
